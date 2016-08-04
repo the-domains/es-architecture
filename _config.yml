@@ -1,0 +1,14 @@
+layout_spectrum: 0.7696550434920937
+typography_spectrum: 0.012953925644978881
+color:
+  brandStrength: 0.5100874428171664
+  lightness: 0.8552225653547794
+  saturation: 0.5649230675771832
+  rhythmicContrast: 0.5786063382402062
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: es-architecture
